@@ -1,3 +1,5 @@
+![logo](https://github.com/RakeshSahu24/RakeshSahu24/blob/main/how_old_are_you.gif) 
+
 <h1 align="center">Hi 👋, I'm Rakesh Sahu</h1>
 <h3 align="center">Transforming Ideas into Elegant Software</h3>
 <img align="right" alt="coding" width="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajFlNnlxZHB4MzNkMWEwYnZqYWd4dmh5c3F5OWttMWdpaWJ2aWZ1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp">
