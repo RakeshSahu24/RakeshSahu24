@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rakesh Sahu</h1>
 <h3 align="center">Transforming Ideas into Elegant Software</h3>
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajFlNnlxZHB4MzNkMWEwYnZqYWd4dmh5c3F5OWttMWdpaWJ2aWZ1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp">
+<img align="right" alt="coding" width="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajFlNnlxZHB4MzNkMWEwYnZqYWd4dmh5c3F5OWttMWdpaWJ2aWZ1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakeshsahu24&label=Profile%20views&color=0e75b6&style=flat" alt="rakeshsahu24" /> </p>
 
-- 💬 Ask me about **JavaScript, React, Node.js, MongoDB, Git & Version Control, Data structures**
-
-- 📫 How to reach me **rakesh.sahu888444@gmail.com**
+📫 How to reach me **rakesh.sahu888444@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
