@@ -10,8 +10,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rakesh-sahu-b12914267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakesh-sahu-b12914267" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rakesh_sahu2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rakesh_sahu2002" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rakesh_sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rakesh_sahu" height="30" width="40" /></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
