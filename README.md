@@ -1,4 +1,4 @@
-![logo](https://github.com/RakeshSahu24/RakeshSahu24/blob/main/how_old_are_you.gif) 
+![logo](https://github.com/RakeshSahu24/RakeshSahu24/blob/main/programming.gif) 
 
 <h1 align="center">Hi 👋, I'm Rakesh Sahu</h1>
 <h3 align="center">Transforming Ideas into Elegant Software</h3>
